@@ -1,4 +1,4 @@
-### Olá, sou o David, estou no processo de me tornar um desenvolvedor 👋
+### Olá, sou o David. Atualmente cursando ciência de dados em busca de me tornar um engenheiro de ML 👋
 
 - 🌱 Estudando Python e JavaScript
 - 💬 Contato pelo email: bhelder908@gmail.com
